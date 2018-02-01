@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="3" time="31.782876">
+<testcase classname="check validation on page" name="Verify listitems count" time="11.877857">
+<system-out><![CDATA[Given web editor page is open...............................................passed
+Given list item count match on Documentpage with DocumnetMap................passed
+]]></system-out>
+</testcase>
+<testcase classname="check validation on page" name="Verify highlighted tags in DocuementMap" time="9.660597">
+<system-out><![CDATA[Given web editor page is open...............................................passed
+When select Why doesn’t my World Car change gears? in EditorPage............passed
+Then corresponding tag should highlighted...................................passed
+]]></system-out>
+</testcase>
+<testcase classname="check validation on page" name="perform add row functionality in table" time="10.244422">
+<system-out><![CDATA[Given web editor page is open...............................................passed
+When table is exist on page.................................................passed
+Then perform add row functionality..........................................passed
+]]></system-out>
+</testcase>
+</testsuite>

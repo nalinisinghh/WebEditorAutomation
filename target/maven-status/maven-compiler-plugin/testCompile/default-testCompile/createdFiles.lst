@@ -1,0 +1,4 @@
+stepDefinitions\AttachHooks.class
+stepDefinitions\Api\DynamicDocOdataStepDef.class
+runner\RunTest.class
+stepDefinitions\DSlocalValidationStepdef.class

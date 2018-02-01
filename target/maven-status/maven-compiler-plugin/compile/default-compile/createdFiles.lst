@@ -1,0 +1,7 @@
+Apis\WebApiTest.class
+objectRepo\DocumentPageLocator.class
+Pages\BasePage.class
+objectRepo\DocumentMapLocators.class
+utils\CommonFunctionLibrary.class
+Pages\DslocalValidation.class
+utils\ConfigManager.class
